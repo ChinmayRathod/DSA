@@ -1,0 +1,5 @@
+Moore Voting Algorithm
+Flloyds Cycle - Detection
+Greedy
+Two pointer - either from the front or the back
+Binary Search
